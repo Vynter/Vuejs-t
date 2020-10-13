@@ -48,5 +48,6 @@ export default {
   text-align: center;
   line-height: 50px;
   font-size: 25px;
+  z-index: 5;
 }
 </style>
